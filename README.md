@@ -22,7 +22,7 @@ Containerization with **Docker** is supported.
 ## 🛠️ Tech Stack:
 - Language: Python
 - Db: SQLite
-- Data Handling: Pandas
+- Data Handling: Pandas, Polars (for Spotify dataset with 114k rows)
 - APIs: FastAPI
 - Frontend: Streamlit
 - Testing: PyTest
