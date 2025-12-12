@@ -20,5 +20,5 @@ Containerization with **Docker** is supported.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/travel-planner-app.git
+git clone https://github.com/AdityaShankar1/travel-planner-app-and-testing.git
 cd travel-planner-app
