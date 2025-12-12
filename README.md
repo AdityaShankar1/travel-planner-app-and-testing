@@ -19,14 +19,14 @@ Containerization with **Docker** is supported.
 
 ---
 
-## Tech Stack:
-Language: Python
-Db: SQLite
-Data Handling: Pandas
-APIs: FastAPI
-Frontend: Streamlit
-Testing: PyTest
-Containerization: Docker
+## 🛠️ Tech Stack:
+- Language: Python
+- Db: SQLite
+- Data Handling: Pandas
+- APIs: FastAPI
+- Frontend: Streamlit
+- Testing: PyTest
+- Containerization: Docker
 
 ---
 
