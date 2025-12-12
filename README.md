@@ -19,10 +19,15 @@ Containerization with **Docker** is supported.
 
 ---
 
-## 🚀 Getting Started
+## Tech Stack:
+Language: Python
+Db: SQLite
+Data Handling: Pandas
+APIs: FastAPI
+Frontend: Streamlit
+Testing: PyTest
+Containerization: Docker
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/AdityaShankar1/travel-planner-app-and-testing.git
-cd travel-planner-app
+---
 
+Feedback welcome!
