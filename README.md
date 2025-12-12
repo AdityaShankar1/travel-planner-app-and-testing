@@ -13,6 +13,9 @@ Containerization with **Docker** is supported.
 - Integration of external dataset (IndiaTourism.csv) for popular destinations
 - Automated API tests with Pytest
 - Dockerfile for containerized deployment
+- Recommender Syste based on song genre preference
+
+### Note: Currently this app works best in light mode
 
 ---
 
@@ -22,3 +25,4 @@ Containerization with **Docker** is supported.
 ```bash
 git clone https://github.com/AdityaShankar1/travel-planner-app-and-testing.git
 cd travel-planner-app
+
